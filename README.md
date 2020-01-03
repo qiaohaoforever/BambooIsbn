@@ -1,6 +1,8 @@
 # DoubanBook
-豆瓣读书，自用书籍📚信息查询API2.0
 
+update: 域名配置https, book.feelyou.top强制跳转https://book.feelyou.top
+
+豆瓣读书，自用书籍📚信息查询API2.0
 douban_isbn1.0 : https://github.com/qiaohaoforever/DoubanBook/blob/master/douban_isbn1.0.md
 
 ## ISBN图书查询
