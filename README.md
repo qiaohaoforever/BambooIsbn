@@ -1,5 +1,14 @@
 # DoubanBook
 
+**赞赏支持**
+
+感谢各位朋友对此项目的关注支持，赞赏支持将全部投入到服务器的维护与开发中，确保接口更加稳定、快速，天长地久～
+
+[🍞 面包多/顿顿饭](https://dun.mianbaoduo.com/@qiao)
+
+**项目规划**
+https://github.com/qiaohaoforever/DoubanBook/projects
+
 **2020-12-22**
 `产品讨论平台`: https://support.qq.com/products/300550
 
