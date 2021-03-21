@@ -1,29 +1,38 @@
 # DoubanBook
 
+http://api.feelyou.top
+
+http://api.feelyou.top
+
+http://api.feelyou.top
+
+老接口所在服务器于2021-03-25到期，届时book.feelyou.top将无法访问。
+
+目前还在使用此接口的朋友们请注意更换新接口：http://api.feelyou.top，暂时无法https，查询方法照旧。
+
+为防止大规模爬虫再次干扰，本次接口加入`key-auth`认证，联系作者公众号发送`isbn-apikey`，获取公共apikey; 如需申请个人apikey，请详细描述项目情况及调用频率。
+
+望天长地久💑
+
+-------
+
 **赞赏支持**
 
 感谢各位朋友对此项目的关注支持，赞赏支持将全部投入到服务器的维护与开发中，确保接口更加稳定、快速，天长地久～
 
 [🍞 面包多/顿顿饭](https://dun.mianbaoduo.com/@qiao)
 
-**项目规划**
+
+关注**项目规划**：
 https://github.com/qiaohaoforever/DoubanBook/projects
 
-**2020-12-22**
-`产品讨论平台`: https://support.qq.com/products/300550
 
-**2020-12-08** 
-`内测域名：`https://feelyou.us-south.cf.appdomain.cloud
 
-update: 
-- 新增书名列表查询📖
-- 域名配置https, book.feelyou.top强制跳转https://book.feelyou.top
-- isbn 查询
 
 豆瓣读书，自用书籍📚信息查询API2.0
 douban_isbn1.0 : https://github.com/qiaohaoforever/DoubanBook/blob/master/douban_isbn1.0.md
 
-## 图书名称查询
+## 图书名称查询（暂停供应）
 调用地址：https://book.feelyou.top/search/
 
 请求方式：GET
@@ -320,12 +329,12 @@ douban_isbn1.0 : https://github.com/qiaohaoforever/DoubanBook/blob/master/douban
 ```
 
 #### 关于未来
+
+你的赞赏才让我们有更长久的未来！
+
 一定有很多朋友实现了自己的小程序，可以分享在这里，大家体验体验，学习探讨一下～  
 
-对了，腾讯云也不让我继续学生认证了，难过，自有服务器的朋友可以和我联系，让服务稳定持续进行下去！ 
 
 `微信公众号：正版乔`
 
 ![](https://img2018.cnblogs.com/blog/1548394/201905/1548394-20190527103103532-1394830677.png)
-
-转载请注明来源：http://blog.qiaohaoforever.cn/2019/11/27/ck3ixgo2m0018w4yh8sj8zoe0/
