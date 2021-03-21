@@ -10,6 +10,10 @@ http://api.feelyou.top
 
 目前还在使用此接口的朋友们请注意更换新接口：http://api.feelyou.top，暂时无法https，查询方法照旧。
 
+update:
+
+提供新的查询书籍完整目录；
+
 为防止大规模爬虫再次干扰，本次接口加入`key-auth`认证，联系作者公众号发送`isbn-apikey`，获取公共apikey; 如需申请个人apikey，请详细描述项目情况及调用频率。
 
 望天长地久💑
