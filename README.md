@@ -17,7 +17,7 @@
 
 ***
 
-* update 2024-11-21 : 推荐使用https://github.com/DoiiarX/NLCISBNPlugin方案进行书籍查询；
+* update 2024-11-21 : 推荐使用https://github.com/DoiiarX/NLCISBNPlugin 方案进行书籍查询；
 
 * update 2022-07-29 : 由于法律法规相关问题，本接口暂时无法对外开放，希望在找到妥善可行的方案后，继续为大家提供稳定服务。  
 
